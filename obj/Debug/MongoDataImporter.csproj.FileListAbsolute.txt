@@ -1,0 +1,15 @@
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDataImporter.exe.config
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\obj\Debug\MongoDataImporter.csprojResolveAssemblyReference.cache
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDataImporter.exe
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDataImporter.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\obj\Debug\MongoDataImporter.exe
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\obj\Debug\MongoDataImporter.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Bson.dll
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Driver.dll
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Bson.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Bson.xml
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Driver.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Driver.xml
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Driver.Core.pdb
+c:\users\maksim\documents\visual studio 2015\Projects\MongoDataImporter\MongoDataImporter\bin\Debug\MongoDB.Driver.Core.xml

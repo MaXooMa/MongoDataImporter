@@ -1,0 +1,4 @@
+first_name(string),last_name(string),age(int),job(string),joined(datetime)
+danny,din,1234,programmer,29/04/1987
+rona,shilo,5554,ux,29/04/1987
+zamir,dilen,2334,programmer,29/04/1987
